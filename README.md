@@ -1,6 +1,6 @@
 # My vagrant VM's
 
-Used for various things managed at a central location.
+Used for various things, managed at a central location.
 
 
 __vagrant__ and __virtualbox__ have to be installed!
